@@ -1,6 +1,6 @@
 # Virtual Whiteboard (Hand Gesture Controlled)
 
-A simple virtual whiteboard built with Python, OpenCV, and MediaPipe Hand Landmarker. Draw and erase on your screen using only hand gestures captured through your webcam — no mouse, no touchscreen, no extra hardware.
+A simple virtual whiteboard built with Python, OpenCV, and MediaPipe Hand Landmarker. Draw and erase on your screen using only hand gestures captured through your webcam no mouse, no touchscreen, w/ no extra hardware
 
 ## Description
 
@@ -15,7 +15,6 @@ The drawing is layered on top of the live camera feed in real time, so you can s
 
 - Real-time hand tracking using MediaPipe Hand Landmarker
 - Gesture-based draw/erase switching, no keyboard or mouse needed while drawing
-- Adjustable brush size, erase size, and ink color
 - Full canvas clear with a single keypress
 - Works with any standard webcam
 
